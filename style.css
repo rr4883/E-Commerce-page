@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    border: border-box;
+    padding: 0;
+}
+body{
+    background-color: rgb(159, 159, 225);
+}
+.cloth{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+.img1{
+    width: 307px;
+    height: 400px;
+
+}
+.img2{
+    width: 307px;
+    height: 400px;
+}
+.img3{
+    width: 307px;
+    height: 400px;
+}
+.section{
+    position: absolute;
+    top: 22%;
+    left:44%;
+    padding: 10px ;
+    width: 320px;
+    height: 350px;
+    background-color: rgb(145, 207, 166);
+    border-radius: 4px ;
+}
+.buttons{
+    display: flex;
+    width: 150px;
+    height: 30px;
+    justify-content: space-evenly;
+}
+.class0{
+    width: 50px;
+    margin-right: 40px;
+}
+.class1{
+    width: 15px;
+    height: 15px;
+    border-radius: 40px;
+    background-color: beige;
+}
+.class2{
+    width: 15px;
+    height: 15px;
+    border-radius: 40px;
+    background-color: rgb(100, 165, 203);
+}
+.class3{
+    width: 15px;
+    height: 15px;
+    border-radius: 40px;
+    background-color: rgb(231, 208, 94);
+}
+.num{
+    width:40px;
+}
